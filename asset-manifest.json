@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio-With-React/static/css/main.1ace9fc3.chunk.css",
+    "main.js": "/Portfolio-With-React/static/js/main.4d912216.chunk.js",
+    "main.js.map": "/Portfolio-With-React/static/js/main.4d912216.chunk.js.map",
+    "runtime-main.js": "/Portfolio-With-React/static/js/runtime-main.0dfd3cd4.js",
+    "runtime-main.js.map": "/Portfolio-With-React/static/js/runtime-main.0dfd3cd4.js.map",
+    "static/css/2.78bf0494.chunk.css": "/Portfolio-With-React/static/css/2.78bf0494.chunk.css",
+    "static/js/2.3c9f6574.chunk.js": "/Portfolio-With-React/static/js/2.3c9f6574.chunk.js",
+    "static/js/2.3c9f6574.chunk.js.map": "/Portfolio-With-React/static/js/2.3c9f6574.chunk.js.map",
+    "index.html": "/Portfolio-With-React/index.html",
+    "static/css/2.78bf0494.chunk.css.map": "/Portfolio-With-React/static/css/2.78bf0494.chunk.css.map",
+    "static/css/main.1ace9fc3.chunk.css.map": "/Portfolio-With-React/static/css/main.1ace9fc3.chunk.css.map",
+    "static/js/2.3c9f6574.chunk.js.LICENSE.txt": "/Portfolio-With-React/static/js/2.3c9f6574.chunk.js.LICENSE.txt",
+    "static/media/2021 Web Development Resume.800c2a47.pdf": "/Portfolio-With-React/static/media/2021 Web Development Resume.800c2a47.pdf",
+    "static/media/BudgetTracker-Screenshot.72c8ba8e.png": "/Portfolio-With-React/static/media/BudgetTracker-Screenshot.72c8ba8e.png",
+    "static/media/WorkoutTracker-Screenshot.1d64530b.png": "/Portfolio-With-React/static/media/WorkoutTracker-Screenshot.1d64530b.png",
+    "static/media/bootstrap-icons.css": "/Portfolio-With-React/static/media/bootstrap-icons.7165e5d7.woff",
+    "static/media/brain-breaks-pic.13fa8628.png": "/Portfolio-With-React/static/media/brain-breaks-pic.13fa8628.png",
+    "static/media/cachetag-screenshot.b5cdcbca.png": "/Portfolio-With-React/static/media/cachetag-screenshot.b5cdcbca.png",
+    "static/media/code-quiz-pic.c21468f3.png": "/Portfolio-With-React/static/media/code-quiz-pic.c21468f3.png",
+    "static/media/App.css": "/Portfolio-With-React/static/media/pinklight-background.f5644f94.jpg",
+    "static/media/profile-pic2.1802db27.jpg": "/Portfolio-With-React/static/media/profile-pic2.1802db27.jpg",
+    "static/media/weather-app-pic.bf50151e.png": "/Portfolio-With-React/static/media/weather-app-pic.bf50151e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfd3cd4.js",
+    "static/css/2.78bf0494.chunk.css",
+    "static/js/2.3c9f6574.chunk.js",
+    "static/css/main.1ace9fc3.chunk.css",
+    "static/js/main.4d912216.chunk.js"
+  ]
+}
