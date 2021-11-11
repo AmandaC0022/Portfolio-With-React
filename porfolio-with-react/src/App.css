@@ -221,7 +221,7 @@ body {
     border-radius: 25px; 
 }
 .portfolio-image-box:hover .overflow {
-    opacity: 75%; 
+    opacity: .75; 
     transition: .5s ease-in-out; 
 }
 .project-icon {
